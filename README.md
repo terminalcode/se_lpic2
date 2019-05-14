@@ -15,4 +15,6 @@
 
 # 202試験対応演習（Version 4.5対応）
 
-
+## 備考
+* 試験情報は、LPICについては [www.lpi.org](https://www.lpi.org/) で、LinuCについては [lpi.or.jp](https://lpi.or.jp/) で確認してください。
+* 演習問題に間違いなどがありましたら Issue に上げてください。
